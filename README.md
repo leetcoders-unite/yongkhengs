@@ -3,8 +3,9 @@ All submissions will be in Java/ Python
 ## Easy
 - (Python) 1 - Two Sum 
 - (Java) 13 - Roman to numeral
+- (Python) 14 - Longest Common Prefix
 - (Java) 35 - Search Insert Position
-- (Java) 58 - Length of last wordq
+- (Java) 58 - Length of last word
 - (Java) 412 - FizzBuzz
 - (Java) 876 - Middle of the Linked List
 - (Java) 1343 - Number of Steps to Reduce a Number to Zero
