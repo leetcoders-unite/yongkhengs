@@ -11,6 +11,7 @@ All submissions will be in Java/ Python
 - (Java) 1672 - Richest Customer Wealth
 
 ## Medium
+- (Python) 11 - Container with most water
 - (Python) 1465 - Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts 
 
 ## Hard
